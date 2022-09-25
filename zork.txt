@@ -1,0 +1,15 @@
+open mailbox
+read leaflet
+drop leaflet
+go south
+go east
+open window
+enter house
+go west
+take lamp
+move rug
+open trap door
+turn on lamp
+go down
+go south
+go east
